@@ -1,0 +1,25 @@
+start:
+
+flat
+blob 50
+disperse a 4
+die
+
+a:
+flat
+radial
+grow 50
+color 50 255 50
+larger
+grow 100
+fill spike
+
+spike:
+color 25 150 25
+fatness 0
+larger
+flat
+grow 70
+larger
+larger
+grow 5

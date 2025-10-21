@@ -1,0 +1,30 @@
+A:
+
+color 220 200 170
+hairy
+blob 500
+disperse b 60
+die
+
+B:
+radial
+nocollision
+fat 0
+texture 35 60 00
+grow 10
+color 170 150 80
+grow 10
+texture 30 40 5
+grow 10
+texture 25 30 10
+grow 10
+color 140 130 70
+grow 10
+color 130 110 60
+grow 20
+color 100 90 50
+grow 20
+color 80 70 40
+grow 20
+color 170 60 35
+grow 20

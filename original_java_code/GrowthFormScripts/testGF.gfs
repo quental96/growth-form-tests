@@ -1,0 +1,11 @@
+Z:
+  up
+  fat 5
+  grow 150
+  spawn a
+  become z
+
+a:
+  down
+  fat 0
+  grow 180

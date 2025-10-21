@@ -1,0 +1,24 @@
+start:
+
+blob 8
+fill a
+become a
+
+
+a:
+
+color 100 100 255
+up 
+fat 0
+grow 8
+general 10
+sleep 10
+grow 8
+general 10
+sleep 10
+grow 8
+general 10
+sleep 10
+mustface 0 1 0
+spawn a
+become a

@@ -1,0 +1,39 @@
+start:
+
+blob 100
+fat 1
+up
+nocol
+grow 100
+spawn pod
+grow 100
+spawn pod
+grow 100
+spawn pod
+grow 100
+spawn pod
+grow 100
+spawn pod
+grow 100
+spawn pod
+
+
+Pod:
+green
+radial
+fat 0
+grow 60
+up
+grow 30
+fill X
+
+
+
+X:
+radial
+blue
+fat 0
+grow 100
+color 150 150 255
+blob 30
+

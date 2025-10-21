@@ -1,0 +1,14 @@
+a:
+  upwards
+  grow 100
+  spawn b6
+  become a
+
+b6:
+  fatness 0
+  grow 30
+  become c
+
+c:
+  //line 20
+  grow 50

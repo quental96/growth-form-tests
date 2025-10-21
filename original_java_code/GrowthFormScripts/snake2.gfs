@@ -1,0 +1,26 @@
+a:
+
+color 255 0 255
+fat 3
+grow 100
+ring b
+grow 100
+ring b
+grow 100
+ring b
+grow 100
+ring b
+grow 100
+ring b
+grow 100
+ring b
+grow 50
+
+b:
+color 0 0 255
+sleep 10
+fill c
+
+
+c:
+color 0 255 0

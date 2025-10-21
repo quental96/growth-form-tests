@@ -1,0 +1,30 @@
+Begin:
+  color 255 200 20
+  blob 300
+  spawn Stem
+  die
+
+Stem:
+  sleep 90
+  head 0 1 0
+  fat 0
+  color 50 200 20
+  size 10
+  grow 30
+  spawn pod
+  grow 10
+  spawn Stem
+  spawn Stem
+  die
+
+Pod: 
+  fat 0
+  sleep 5
+  grow 10
+  color 200 20 20
+  hairy
+  size 12
+  grow 20
+  size 20
+  fat 3
+  grow 20

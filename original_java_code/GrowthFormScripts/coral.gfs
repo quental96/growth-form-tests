@@ -1,0 +1,25 @@
+a:
+web
+blob 400
+dispers b 25
+
+b:
+mustface 0 1 0
+radial
+bump
+grow 20
+head 0 1 0
+grow 20
+spawn c
+spawn c
+die
+
+c:
+mustface 0 1 0
+head 0 1 0
+general 1       //clean up some 4s
+grow 80
+spawn c
+spawn c
+die
+

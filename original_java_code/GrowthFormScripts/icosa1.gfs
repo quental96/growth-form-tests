@@ -1,0 +1,20 @@
+A:
+  grow 8            // make 12 for icosahedral form
+  become b
+
+B: 
+  fill b                 // all become b
+  nocollision
+  radial              //grow outward
+  fat 1
+  sleep 15          // delay for fill to finish   
+  grow 200
+  fat 5                // blob at end
+  larger
+  grow 20
+  larger
+  grow 20
+  larger
+  grow 20
+  larger
+  grow 20

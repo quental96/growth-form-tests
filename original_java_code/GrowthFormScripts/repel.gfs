@@ -1,0 +1,59 @@
+a:
+fat 3
+grow 20
+spawn b
+spawn b
+spawn b
+spawn b
+spawn b
+grow 10
+spawn b
+spawn b
+spawn b
+spawn b
+spawn b
+grow 10
+spawn b
+spawn b
+grow 50
+die
+
+
+b:
+flat
+sleep 50
+repel b
+repel b
+sleep 2
+repel b
+repel b
+sleep 2
+repel b
+repel b
+sleep 2
+repel b
+repel b
+sleep 2
+repel b
+repel b
+sleep 2
+repel b
+repel b
+sleep 2
+repel b
+repel b
+sleep 2
+repel b
+repel b
+sleep 2
+fat 0
+radial
+grow 50
+hairy
+color 20 40 0
+larger
+grow 5
+larger
+grow 5
+larger
+

@@ -1,0 +1,20 @@
+start:
+
+color 255 180 60
+texture -20 20 -15
+blob 500
+disperse a 40
+die
+
+a:
+color 250 230 50
+flat
+mustface 0 -1 0
+head 0 -1 0
+fat 0
+grow 200
+color 125 115 25
+grow 5
+
+
+

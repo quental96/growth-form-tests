@@ -1,0 +1,26 @@
+start:
+  color 50 200 20
+  blob 5
+  become a
+
+A:
+  head 0 1 0
+  fat 0
+  color 50 200 20
+  size 10
+  nocollision
+  grow 1
+  ring B9
+  become A
+
+B9: 
+  sleep 20
+  nocollis
+  fat 0
+  grow 10
+   color 0 100 0
+  size 12
+  grow 20
+  size 20
+  fat 3
+  grow 20

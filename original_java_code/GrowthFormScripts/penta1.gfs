@@ -1,0 +1,20 @@
+start 50 5
+
+a:
+radial
+nocollision
+grow 50
+color 50 255 50
+smaller
+grow 50
+grow 50
+fill spike
+
+spike:
+nocollision
+color 25 150 25
+fatness 0
+grow 40
+grow 20
+general 10
+

@@ -1,0 +1,42 @@
+a:
+color 250 190 90
+blob 100
+disperse b 2
+
+
+B:
+tube
+radial
+sleep 20
+grow 5
+sleep 20
+grow 5
+sleep 20
+grow 5
+sleep 20
+grow 5
+sleep 20
+grow 5
+sleep 20
+grow 5
+sleep 20
+grow 5
+sleep 20
+grow 5
+sleep 20
+grow 5
+sleep 20
+grow 5
+sleep 20
+blob 10
+sleep 20
+blob 10
+sleep 20
+blob 10
+sleep 20
+blob 10
+sleep 20
+blob 10
+sleep 20
+become b
+

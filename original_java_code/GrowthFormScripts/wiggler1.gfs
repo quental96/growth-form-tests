@@ -1,0 +1,15 @@
+a:
+grow 8
+spawn b
+
+freeze
+
+b:
+/up
+/trail c
+grow 10
+fat 0
+grow 500
+
+c:
+

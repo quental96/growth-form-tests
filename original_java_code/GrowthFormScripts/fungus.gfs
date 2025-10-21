@@ -1,0 +1,9 @@
+A:
+bump
+grow 20
+ring B
+grow 10
+die
+
+B:
+grow 100

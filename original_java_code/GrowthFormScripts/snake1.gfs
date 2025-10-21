@@ -1,0 +1,9 @@
+A:
+  fat 0
+  upwards
+  grow 80
+  ring b
+  become a
+
+B:
+  noop

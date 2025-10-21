@@ -1,0 +1,24 @@
+start:
+
+blob 30
+blob 30
+blob 30
+blob 30
+blob 30
+blob 30
+blob 30
+blob 30
+blob 30
+blob 30
+disperse a 12
+die
+
+a:
+repel a
+repel a
+fat 5
+grow 10
+fat 1
+radial
+grow 90
+general 5

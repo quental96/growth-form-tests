@@ -1,0 +1,24 @@
+start 50 2
+
+pole:
+spawn a
+spawn a
+
+a:
+repel pole
+repel pole
+radial
+nocollision
+grow 50
+color 50 255 50
+smaller
+grow 100
+fill spike
+
+spike:
+color 25 150 25
+fatness 0
+grow 40
+grow 20
+general 5
+

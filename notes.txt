@@ -1,0 +1,17 @@
+java -jar GrowthForm4.jar
+
+Notes:
+look at .class to properly point to jogl, gluegen-rt and QTJ
+althout not sure QTJ is actually used
+
+run with java --add-exports java.desktop/sun.awt=ALL-UNNAMED -jar GrowthForm4.jar
+
+build a bundle
+https://centerkey.com/mac/java/
+
+
+Example script:
+a:
+web
+blob 8
+blob 200

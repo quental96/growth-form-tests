@@ -1,0 +1,21 @@
+start:
+
+down
+grow 5
+spawn a
+spawn a
+spawn a
+spawn a
+spawn a
+fat 5
+grow 50
+
+
+a:
+up
+sleep 50
+grow 100
+ring b
+become a
+
+b:

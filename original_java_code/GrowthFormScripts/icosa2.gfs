@@ -1,0 +1,17 @@
+start 200 12
+
+a:
+radial
+grow 20
+become b
+
+b:
+radial
+grow 50
+color 30 200 0
+ring c
+become b
+
+c:
+color 0 30 0
+texture 200 80 20

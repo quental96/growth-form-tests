@@ -1,0 +1,25 @@
+a:
+down
+grow 5
+spawn b
+spawn b
+spawn b
+spawn b
+spawn b
+fat 20
+web
+grow 200
+
+b:
+up
+sleep 100
+grow 100
+larger
+grow 100
+larger
+larger
+fat 10
+hairy
+grow 200
+larger 
+
